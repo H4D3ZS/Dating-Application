@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763284075581",
+    "project_id": "tapmetapyou20001",
+    "storage_bucket": "tapmetapyou20001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763284075581:android:5e0657cd3568bbb8982654",
+        "android_client_info": {
+          "package_name": "com.boxintegrity.cybertech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763284075581-bgcljcfdk0hjk5c80b0bdrnjt1gae3nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boxintegrity.cybertech",
+            "certificate_hash": "d3e87bc0604ee77498f2c60e39b400da199e06fb"
+          }
+        },
+        {
+          "client_id": "763284075581-skelna6msmb9qmaqerh6fbb7qdo4mq70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1ZCKbfV0D_HY-V9I0ZSBw9ykScN9rgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763284075581-skelna6msmb9qmaqerh6fbb7qdo4mq70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
